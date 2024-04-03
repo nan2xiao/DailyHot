@@ -1,3 +1,7 @@
+# 注意
+
+本仓库分叉于 [https://github.com/imsyy/DailyHot](https://github.com/imsyy/DailyHot) 并且已经进行了某些修改。
+
 <div align="center">
 <img alt="logo" height="120" src="./public/favicon.png" width="120"/>
 <h2>今日热榜</h2>
